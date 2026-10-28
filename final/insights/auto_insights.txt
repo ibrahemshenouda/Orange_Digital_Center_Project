@@ -1,0 +1,9 @@
+Total revenue is 19.88M with 9.92M profit (49.9% margin).
+Revenue grew about 10% a year from 2013 to 2015.
+In 2013 - 2015 the best month is July and the weakest is August.
+The top product is 'Air cushion machine (Blue)'.
+California is the biggest state (44% of revenue).
+566 lines lost money, total loss 40,502.
+There are no sales on Sunday.
+The best model is Random Forest with 99.6% accuracy.
+The most important input is Quantity, then Unit Price.

@@ -1,5 +1,13 @@
 # WWI Sales Analysis
 
+**Part 2 (final project) is in [final](final/README.md):** 5 ML models predict if a sale will be High Profit (Random Forest 99.6%) and a 3 page dashboard.
+
+![part 2 dashboard](final/images/dashboard_predictions.png)
+
+---
+
+## Part 1 - Midterm
+
 Midterm project. Sales data for Wide World Importers (2013 - 2016), a company that sells packaging and gift items to shops.
 
 Steps:
